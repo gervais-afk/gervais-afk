@@ -23,7 +23,7 @@
 
 ## 💎 Philosophie & Doctrine d'Ingénierie (ADR 2026)
 
-Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC), l'exigence réglementaire internationale de la sûreté de l'aviation civile (8 ans d'expérience à la CCAA / OACI Annexe 17), et l'état de l'art du **Master Recherche en Intelligence Artificielle & Modélisation de Graphes** (Université de Ngaoundéré) :
+Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC), l'exigence réglementaire internationale de la sûreté de l'aviation civile (8 ans d'expérience à la CCAA / OACI Annexe 17), et l'état de l'art du **Master professionel en Intelligence Artificielle appliquée** (Université de Ngaoundéré) :
 
 * 🛡️ **Edge AI & Souveraineté des Données :** Déploiement de modèles en local via **LM Studio / Ollama** (Google Gemma 4 12B QAT) sans dépendance ni latence du Cloud public. Protection totale des données sensibles PII et des infrastructures gouvernementales (AVSEC).
 * 🧠 **Architectures Neuro-Symboliques (Zéro Hallucination) :** Dissocier l'interprétation du calcul physique. Le LLM orchestre et parse le langage naturel ; un moteur **Python Sandbox** déterministe (*IfcOpenShell, formules du BTP BAEL 91, report Python-docx V4*) exécute les équations rigides en temps réel.
