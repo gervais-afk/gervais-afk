@@ -2,7 +2,7 @@
 
 # 🏛️ KOA MARIE GERVAIS NELLY
 ### 🚀 Lead AI Engineer & Data Architect | Fondateur @ Archi Cam AI
-**Candidat officiel au Google Africa Applied AI Lab (Accra, Ghana) • Spécialiste IA Souveraine & MLOps • Double Expertise Génie Civil (BAEL 91) & Sûreté Aérienne (AVSEC / CCAA)**
+**Candidat officiel au Google Africa Applied AI Lab (Accra, Ghana) • Spécialiste IA Souveraine & MLOps • Triple Expertise Génie Civil,Intelligence Artificielle Appliquée & Sûreté Aérienne (AVSEC / CCAA)**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-gervais--afk.github.io-00F2FE?style=for-the-badge&logo=github-pages&logoColor=black)](https://gervais-afk.github.io/-portfolio-gervais/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gervais-koa)
@@ -23,7 +23,7 @@
 
 ## 💎 Philosophie & Doctrine d'Ingénierie (ADR 2026)
 
-Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC), l'exigence réglementaire internationale de la sûreté de l'aviation civile (8 ans d'expérience à la CCAA / OACI Annexe 17), et l'état de l'art du **Master professionel en Intelligence Artificielle appliquée** (Université de Ngaoundéré) :
+Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC), l'exigence réglementaire internationale de la sûreté de l'aviation civile (8 ans d'expérience à la CCAA / OACI Annexe 17), et l'état de l'art du **Master professionnel en Intelligence Artificielle appliquée** (Université de Ngaoundéré) :
 
 * 🛡️ **Edge AI & Souveraineté des Données :** Déploiement de modèles en local via **LM Studio / Ollama** (Google Gemma 4 12B QAT) sans dépendance ni latence du Cloud public. Protection totale des données sensibles PII et des infrastructures gouvernementales (AVSEC).
 * 🧠 **Architectures Neuro-Symboliques (Zéro Hallucination) :** Dissocier l'interprétation du calcul physique. Le LLM orchestre et parse le langage naturel ; un moteur **Python Sandbox** déterministe (*IfcOpenShell, formules du BTP BAEL 91, report Python-docx V4*) exécute les équations rigides en temps réel.
