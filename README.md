@@ -4,7 +4,7 @@
 ### 🚀 Lead AI Engineer & Data Architect | Fondateur @ Archi Cam AI
 **Candidat officiel au Google Africa Applied AI Lab (Accra, Ghana) • Spécialiste IA Souveraine & MLOps • Triple Expertise Génie Civil,Intelligence Artificielle Appliquée & Sûreté Aérienne (AVSEC / CCAA)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-gervais--afk.github.io-00F2FE?style=for-the-badge&logo=github-pages&logoColor=black)](https://gervais-afk.github.io/-portfolio-gervais/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gervais-koa)
 [![Email](https://img.shields.io/badge/Email-koagervais85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koagervais85@gmail.com)
 [![Location](https://img.shields.io/badge/Localisation-Cameroun_(Douala_/_Ngaoundéré)-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
