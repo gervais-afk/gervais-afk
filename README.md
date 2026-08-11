@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gervais-koa)
 [![Email](https://img.shields.io/badge/Email-magenel85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magenel85@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Le_Lab_du_Machine_Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
 [![Location](https://img.shields.io/badge/Localisation-Cameroun_(Douala_/_Ngaoundéré)-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 ---
@@ -93,6 +94,7 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 * 📑 **Livre Blanc 2026 Téléchargeable :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible en PDF sur le Portfolio Officiel](https://gervais-afk.github.io/-portfolio-gervais/assets/docs/Whitepaper_IA_Souveraine_BTP_2026.pdf)
 * 🎧 **Podcast IA Deep-Dive :** Écoutez deux experts IA analyser la plomberie technique de cet écosystème sur notre [Lecteur Audio En Ligne](https://gervais-afk.github.io/-portfolio-gervais/#projects).
+* 🎥 **Chaîne YouTube :** Retrouvez mes analyses, tutoriels et deep-dives techniques sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw).
 * 🤝 **Me Contacter :** Ouvert aux collaborations techniques, missions d'audit IA/Génie Civil, et directions d'équipes au **Google Africa Applied AI Lab**. 📧 `magenel85@gmail.com`
 
 <div align="center">
