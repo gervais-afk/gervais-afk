@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-gervais-koa)
 [![Devpost](https://img.shields.io/badge/Devpost-magenel85-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/magenel85)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/me)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/113140160674270711299)
 [![Email](https://img.shields.io/badge/Email-magenel85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magenel85@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Le_Lab_du_Machine_Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
 [![Location](https://img.shields.io/badge/Localisation-Cameroun_(Douala_/_Ngaoundéré)-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
@@ -109,7 +109,7 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 ## 👨‍💻 Creator & Intellectual Property
 
 * **Creator & Lead AI Engineer**: **KOA MARIE GERVAIS NELLY (Gervais Marie)** ([@gervais-afk](https://github.com/gervais-afk) / [Devpost: magenel85](https://devpost.com/magenel85))
-* **Google Affiliation**: **Google Developer Program Member** ([Google Developers Profile](https://me.developers.google.com/u/me)).
+* **Google Affiliation**: **Google Developer Program Member** ([Google Developers Profile](https://me.developers.google.com/u/113140160674270711299)).
 * **Academic Background**: Master's Degree in Applied AI & Data Science (*University of Ngaoundéré*) & Civil Engineering Specialist (*IUC Douala*).
 * **Professional Profiles**: [LinkedIn Profile](https://linkedin.com/in/marie-gervais-koa) · [GitHub Portfolio](https://github.com/gervais-afk) · [Devpost Profile](https://devpost.com/magenel85) · [Official Web Portfolio](https://portfolio-gervais.vercel.app/)
 * **Technical Publication**: [Dev.to Article: Multi-Agent MLOps with Google TabFM & Gemma](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
