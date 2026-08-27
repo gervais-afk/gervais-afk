@@ -90,8 +90,12 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gervais-afk&show_icons=true&theme=radium&hide_border=true&bg_color=0f172a" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervais-afk&layout=compact&theme=radium&hide_border=true&bg_color=0f172a" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gervais-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=00F2FE&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gervais-afk&theme=tokyonight&hide_border=true&background=090D16&ring=00F2FE&fire=38BDF8&currStreakLabel=00F2FE" alt="GitHub Streak" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervais-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=00F2FE&text_color=94A3B8" alt="Top Languages" width="49%" />
 
 </div>
 
