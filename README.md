@@ -8,9 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marie--gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-gervais-koa)
 [![Devpost](https://img.shields.io/badge/Devpost-magenel85-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/magenel85)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/113140160674270711299)
-[![Email](https://img.shields.io/badge/Email-koagervais85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koagervais85@gmail.com)
+[![Email](https://img.shields.io/badge/Email-magenel85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magenel85@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Le_Lab_du_Machine_Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
-[![Location](https://img.shields.io/badge/Localisation-Cameroun_(Douala_/_Ngaoundéré)-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Localisation-Douala_%2F_Yaoundé_%2F_Ngaoundéré,_Cameroun_🇨🇲-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 ---
 
@@ -103,14 +103,14 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 * 🏆 **Démonstration Hackathon Google Cloud (#AllThingsAgentic) :** [Vidéo Master Démo YouTube (1080p)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw) · [Soumission Devpost](https://devpost.com/magenel85)
 * 📖 **Publication Technique Dev.to :** [« How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B & EU AI Act Attestations »](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
-* 📑 **Livre Blanc 2026 Téléchargeable :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible en PDF sur le Portfolio Officiel](https://portfolio-gervais.vercel.app/)
+* 📑 **Livre Blanc 2026 Téléchargeable :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible sur le Portfolio Vercel](https://portfolio-gervais.vercel.app/) / [GitHub Pages](https://gervais-afk.github.io/portfolio-gervais)
 * 🎧 **Podcast IA Deep-Dive (NotebookLM) :** Écoutez nos analyses audio sur le [Lecteur Audio du Portfolio](https://portfolio-gervais.vercel.app/#projects).
 * 🎥 **Chaîne YouTube :** Retrouvez mes tutoriels et analyses d'ingénierie sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw).
-* 🤝 **Me Contacter :** Ouvert aux collaborations techniques et missions de recherche appliquée au **Google Africa Applied AI Lab**. 📧 `koagervais85@gmail.com`
+* 🤝 **Me Contacter :** Ouvert aux collaborations techniques et missions de recherche appliquée au **Google Africa Applied AI Lab**. 📧 `magenel85@gmail.com`
 
 <div align="center">
 <br/>
-<sub>⭐ 2026 KOA MARIE GERVAIS NELLY • Conçu avec passion, rigueur et souveraineté depuis le Cameroun 🇨🇲</sub>
+<sub>⭐ 2026 KOA MARIE GERVAIS NELLY • Conçu avec passion, rigueur et souveraineté depuis Douala / Yaoundé / Ngaoundéré, Cameroun 🇨🇲</sub>
 </div>
 
 ---
