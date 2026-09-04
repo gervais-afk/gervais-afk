@@ -2,7 +2,7 @@
 
 # 🏛️ KOA MARIE GERVAIS NELLY
 ### 🚀 Lead AI Engineer & MLOps Architect | Fondateur @ Archi Cam AI
-**Candidat officiel au Google Africa Applied AI Lab (Accra, Ghana) • Spécialiste IA Souveraine, GraphRAG & MLOps • Triple Expertise Génie Civil, Intelligence Artificielle Appliquée & Sûreté Aérienne (AVSEC / CCAA)**
+**Fondateur & Architecte d'Archi Cam AI • Membre Google Developer Program • Spécialiste IA Souveraine, GraphRAG & MLOps • Triple Expertise Génie Civil, Intelligence Artificielle Appliquée & Sûreté Aérienne (AVSEC / CCAA)**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marie--gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-gervais-koa)
@@ -40,7 +40,7 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 | Projet & Répertoire | Domaine & Problématique | Stack Technologique (2026) | Impact & ROI Mesurable |
 | :--- | :--- | :--- | :--- |
-| **[🏗️ Archi Cam AI](https://github.com/gervais-afk/archi-cam-ai)** *(Projet Candidat Google Lab)* | SaaS d'IA Agentique & Modélisation **5D BIM** pour chiffrage et vérification BTP au Cameroun. | **Gemma 4 12B QAT local**, Gemini 1.5/2.5 Pro, IfcOpenShell, Python Sandbox BAEL 91, Imagen 3 + ControlNet | **-99,2 % de temps de chiffrage** (de 7 jours à <45s) et 0 risque de surcoût ou d'effondrement structurel. |
+| **[🏗️ Archi Cam AI](https://github.com/gervais-afk/archi-cam-ai)** *(SaaS IA & 5D BIM)* | SaaS d'IA Agentique & Modélisation **5D BIM** pour chiffrage et vérification BTP au Cameroun. | **Gemma 4 12B QAT local**, Gemini 1.5/2.5 Pro, IfcOpenShell, Python Sandbox BAEL 91, Imagen 3 + ControlNet | **-99,2 % de temps de chiffrage** (de 7 jours à <45s) et 0 risque de surcoût ou d'effondrement structurel. |
 | **[⚙️ Dataset Automator v4.0](https://github.com/gervais-afk/notebooks-factory)** *(Google Cloud Hackathon)* | Control Center MLOps spatial multi-agents, modèle fondation tabulaire & audit certifié. | **Google Antigravity SDK**, **Google TabFM**, **BigQuery Studio**, Gemini 3.5, Gemma 2B, PAIR What-If Tool, Streamlit | Pipeline ML autonome en **<60s**, **125× réduction de coût de tokens**, **100/100 robustesse Red Team**, sceaux **EU AI Act**. |
 | **[🛡️ Sovereign.BI Agentic](https://github.com/gervais-afk/-sovereign-bi-agentic)** | Moteur de Business Intelligence décisionnel souverain interrogé en langage naturel (Text-to-SQL/Cypher). | TypeScript Orchestrator, **Neo4j GraphRAG**, FastAPI, PostgreSQL (pgvector), Guardrails ABAC, **SHAP Sentinel** | Latence **<5 secondes** sur requêtes complexes avec traçabilité juridique 100 % vérifiable hors-ligne. |
 | **[🎓 K1-MATHINFO (v2.5+)](https://github.com/gervais-afk/k1-mathinfo)** | Système Souverain d'IA Agentique, GraphRAG & Certification Scientifique (DMI Université de Ngaoundéré). | **FastAPI 0.115**, **Neo4j 5.26 GraphRAG**, **Redis 7 Lua (<3ms)**, pgvector, Attesteur OKF SHA-256, OAI-PMH FAIR | **0% citation fantôme**, valorisation de 28 ans de recherche (451 thèses, 1 366 nœuds), 68 tests automatisés (100% succès). |
