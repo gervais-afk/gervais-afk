@@ -1,66 +1,66 @@
 <div align="center">
 
-# 🏛️ KOA MARIE GERVAIS NELLY
-### 🚀 Lead AI Engineer & MLOps Architect | Fondateur @ Archi Cam AI
-**Fondateur & Architecte d'Archi Cam AI • Membre Google Developer Program • Spécialiste IA Souveraine, GraphRAG & MLOps • Triple Expertise Génie Civil, Intelligence Artificielle Appliquée & Sûreté Aérienne (AVSEC / CCAA)**
+# KOA MARIE GERVAIS NELLY
+### Lead AI Engineer & Data Architect | Founder & Architect @ Archi Cam AI
+**Applied AI & Data Systems Engineer • Google Developer Program Member • Specialist in Sovereign Multi-Agent Architectures, Neo4j GraphRAG, Production MLOps & Critical Infrastructure Systems (Civil Engineering & ICAO AVSEC)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-portfolio--gervais.vercel.app-00F2FE?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gervais.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marie--gervais--koa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-gervais-koa)
 [![Devpost](https://img.shields.io/badge/Devpost-magenel85-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/magenel85)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/113140160674270711299)
 [![Email](https://img.shields.io/badge/Email-magenel85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magenel85@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Le_Lab_du_Machine_Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
-[![Location](https://img.shields.io/badge/Localisation-Douala_%2F_Yaoundé_%2F_Ngaoundéré,_Cameroun_🇨🇲-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Douala_%2F_Yaoundé_%2F_Ngaoundéré,_Cameroon-0A7C32?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 ---
 
 ```text
-« Unifier les infrastructures critiques africaines (BTP BAEL 91, Sûreté OACI, Agro-climatologie au Sahel, Recherche Académique)
- avec l'IA Multimodale d'élite de Google (Gemini 3.5, Google TabFM, Gemma 4 12B local, Antigravity SDK) 
- sous une gouvernance Edge MLOps stricte : 0% Hallucination, 100% Souveraineté, Certifications Cryptographiques EU AI Act. »
+« Unifier les infrastructures critiques (BTP BAEL 91, Sûreté OACI, Agro-climatologie au Sahel, Recherche Académique)
+ avec l'IA Multimodale et l'ingénierie logicielle avancée (Google Antigravity, TabFM, Gemma 4 12B local, Neo4j GraphRAG)
+ sous une gouvernance MLOps stricte : Zéro Hallucination, Souveraineté Totale, Traçabilité Mathématique. »
 ```
 
 </div>
 
 ---
 
-## 💎 Philosophie & Doctrine d'Ingénierie (ADR 2026)
+## Doctrine d'Ingénierie & Architecture des Systèmes
 
-Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC), l'exigence réglementaire internationale de la sûreté de l'aviation civile (8 ans d'expérience à la CCAA / OACI Annexe 17), et l'état de l'art du **Master professionnel en Intelligence Artificielle appliquée** (Université de Ngaoundéré) :
+Mon approche articule la rigueur mathématique du Génie Civil (ISTDI / IUC), la discipline opérationnelle et réglementaire de la sûreté aéronautique (CCAA / Annexe 17 OACI), et l'excellence académique du **Master professionnel en Intelligence Artificielle Appliquée** (Université de Ngaoundéré) :
 
-* 🛡️ **Edge AI & Souveraineté des Données :** Déploiement de modèles en local via **LM Studio / Ollama** (Google Gemma 4 12B QAT / Gemma 2B) sans dépendance ni latence du Cloud public. Protection totale des données sensibles PII et des infrastructures gouvernementales (AVSEC).
-* 🧠 **Architectures Neuro-Symboliques (Zéro Hallucination) :** Dissocier l'interprétation du calcul physique. Le LLM orchestre et parse le langage naturel ; un moteur **Python Sandbox** déterministe (*IfcOpenShell, formules du BTP BAEL 91, report Python-docx V4*) exécute les équations rigides en temps réel.
-* 🌐 **GraphRAG vs VectorRAG :** Indexation ontologique sous **Neo4j N10S & Cypher**. Traversée de graphes de connaissances en triplets sémantiques, éliminant la dégradation par morcellement des vecteurs traditionnels.
-* 📈 **Défense Active contre le Data Drift (MLOps CI/CD) :** Intégration mathématique du test de **Kolmogorov-Smirnov (KS-Test)** et du **Population Stability Index (PSI)** dans des pipelines automatisés, observés en continu via **MLflow** et validés par notre auditeur d'explicabilité **SHAP Sentinel**.
-* 🔒 **Gouvernance & Conformité Réglementaire :** Sceau cryptographique inviolable **RSASSA-PSS-SHA256** certifiant la traçabilité des modèles selon les **Articles 12 & 26 de l'EU AI Act**.
+* **Edge AI & Souveraineté des Données :** Déploiement de modèles en local via LM Studio et Ollama (Google Gemma 4 12B QAT / Gemma 2B) garantissant une étanchéité mémoire absolue sans dépendance Cloud, pour la protection des données sensibles et des infrastructures critiques.
+* **Architectures Neuro-Symboliques (Zéro Hallucination) :** Découplage strict entre l'interprétation sémantique et le calcul physique. Le LLM orchestre les requêtes ; un moteur déterministe Python Sandbox (IfcOpenShell, BAEL 91, python-docx V4) exécute les calculs exacts en temps réel.
+* **GraphRAG vs VectorRAG :** Indexation ontologique sous Neo4j N10S et Cypher. Traversée de graphes de connaissances en triplets sémantiques, éliminant la dégradation par morcellement des vecteurs traditionnels.
+* **Observabilité & MLOps Actif :** Intégration continue de tests statistiques (Kolmogorov-Smirnov, Population Stability Index) dans des pipelines CI/CD sous MLflow, combinés à l'auditeur d'explicabilité SHAP Sentinel.
+* **Gouvernance & Conformité Réglementaire :** Traçabilité cryptographique SHA-256 et alignement avec les exigences de l'EU AI Act et des protocoles de certification scientifique (OKF v0.2 No-LLM).
 
 ---
 
-## 🏆 Écosystème des 6 Projets Phares (Impact & ROI Industriel)
+## Écosystème des 6 Systèmes IA en Production
 
-| Projet & Répertoire | Domaine & Problématique | Stack Technologique (2026) | Impact & ROI Mesurable |
+| Système & Répertoire | Domaine & Cas d'Usage | Stack Technologique | Impact & Performance |
 | :--- | :--- | :--- | :--- |
-| **[🏗️ Archi Cam AI](https://github.com/gervais-afk/archi-cam-ai)** *(SaaS IA & 5D BIM)* | SaaS d'IA Agentique & Modélisation **5D BIM** pour chiffrage et vérification BTP au Cameroun. | **Gemma 4 12B QAT local**, Gemini 1.5/2.5 Pro, IfcOpenShell, Python Sandbox BAEL 91, Imagen 3 + ControlNet | **-99,2 % de temps de chiffrage** (de 7 jours à <45s) et 0 risque de surcoût ou d'effondrement structurel. |
-| **[⚙️ Dataset Automator v4.0](https://github.com/gervais-afk/notebooks-factory)** *(Google Cloud Hackathon)* | Control Center MLOps spatial multi-agents, modèle fondation tabulaire & audit certifié. | **Google Antigravity SDK**, **Google TabFM**, **BigQuery Studio**, Gemini 3.5, Gemma 2B, PAIR What-If Tool, Streamlit | Pipeline ML autonome en **<60s**, **125× réduction de coût de tokens**, **100/100 robustesse Red Team**, sceaux **EU AI Act**. |
-| **[🛡️ Sovereign.BI Agentic](https://github.com/gervais-afk/-sovereign-bi-agentic)** | Moteur de Business Intelligence décisionnel souverain interrogé en langage naturel (Text-to-SQL/Cypher). | TypeScript Orchestrator, **Neo4j GraphRAG**, FastAPI, PostgreSQL (pgvector), Guardrails ABAC, **SHAP Sentinel** | Latence **<5 secondes** sur requêtes complexes avec traçabilité juridique 100 % vérifiable hors-ligne. |
-| **[🎓 K1-MATHINFO (v2.5+)](https://github.com/gervais-afk/k1-mathinfo)** | Système Souverain d'IA Agentique, GraphRAG & Certification Scientifique (DMI Université de Ngaoundéré). | **FastAPI 0.115**, **Neo4j 5.26 GraphRAG**, **Redis 7 Lua (<3ms)**, pgvector, Attesteur OKF SHA-256, OAI-PMH FAIR | **0% citation fantôme**, valorisation de 28 ans de recherche (451 thèses, 1 366 nœuds), 68 tests automatisés (100% succès). |
-| **[✈️ ASU-Audit-Ready](https://github.com/gervais-afk/ASU-Audit-Ready)** | Plateforme gouvernementale pour la CCAA : évaluation automatisée de conformité de sûreté aéroportuaire (OACI). | Python, Streamlit, moteur documentaire en mémoire **python-docx V4 / docxtpl**, Simulateur d'audit 100 points | **Économie de 40h/mois/aéroport** (génération de rapports Word normés en moins de **2 secondes**). |
-| **[🌍 VigieSahel](https://github.com/gervais-afk/VigieSahel)** | Système MLOps prédictif d'alertes agro-climatiques, épidémiques (méningite) et résilience au Sahel. | **XGBoost & CatBoost (R² > 0.94)**, Supabase Realtime, Ingestion capteurs de poussière PM2.5 d'Harmattan | **-35 % d'échecs de semis de coton** et anticipation des flambées de méningite **14 jours avant crise**. |
+| **[Archi Cam AI](https://github.com/gervais-afk/archi-cam-ai)** | SaaS d'IA Agentique & Modélisation **5D BIM** pour estimation BTP et vérification structurelle. | Gemma 4 12B QAT local, Gemini 1.5/2.5 Pro, IfcOpenShell, Python Sandbox BAEL 91, Imagen 3 + ControlNet | **–99,2% de temps d'estimation** (<45s vs 7 jours) et zéro risque de surcoût ou d'erreur géométrique. |
+| **[K1-MATHINFO (v3.0.0)](https://github.com/gervais-afk/k1-mathinfo)** | Système Souverain d'IA Agentique Multi-Agents, GraphRAG & Certification Scientifique (DMI Univ. Ngaoundéré). | FastAPI 0.115, LangGraph 6 Agents, Neo4j 5.26 GraphRAG, Redis 7 Lua (<3ms), OKF v0.2 SHA-256 No-LLM | **0% citation fantôme**, valorisation de 28 ans de recherche (470 thèses, 1 366 nœuds), 77 tests validés (100%). |
+| **[Sovereign.BI Agentic](https://github.com/gervais-afk/sovereign-bi-agentic)** | Moteur décisionnel souverain d'interrogation de bases de données SQL/Graphes en langage naturel. | TypeScript Orchestrator, Neo4j GraphRAG, FastAPI, PostgreSQL (pgvector), Guardrails ABAC, SHAP Sentinel | Latence **<5 secondes** sur requêtes complexes avec explicabilité mathématique et traçabilité hors-ligne. |
+| **[Dataset Automator v4.0](https://github.com/gervais-afk/notebooks-factory)** *(Google Cloud Hackathon)* | Usine MLOps spatiale multi-agents, modèle fondation tabulaire & audit automatisé. | Google Antigravity SDK, Google TabFM, BigQuery Studio, Gemini, Gemma 2B, PAIR What-If Tool, Streamlit | Pipeline ML autonome en **<60s**, **125x réduction de coût de tokens**, conformité EU AI Act. |
+| **[VigieSahel](https://github.com/gervais-afk/VigieSahel)** | Système MLOps prédictif pour la résilience agro-climatique et l'anticipation épidémique au Sahel. | XGBoost & CatBoost (R² > 0.94), Supabase Realtime, Ingestion capteurs IoT poussière PM2.5 Harmattan | **–35% d'échecs de semis** et anticipation des flambées épidémiques **14 jours en amont**. |
+| **[ASU-Audit-Ready](https://github.com/gervais-afk/ASU-Audit-Ready)** | Plateforme décisionnelle pour la CCAA : conformité réglementaire de sûreté aéroportuaire (OACI). | Python, Streamlit, moteur documentaire python-docx V4, Simulateur d'inspection 100 points | **Économie de 40h/mois/aéroport** (génération de rapports mensuels normés en <2 secondes). |
 
 ---
 
-## 🛠️ Arsenal Technologique & MLOps
+## Arsenal Technologique & MLOps
 
-### 🤖 **Modèles d'IA & Orchestration Agentique**
+### Modèles d'IA & Orchestration Agentique
 ![Google Gemini 3.5](https://img.shields.io/badge/Google_Gemini_3.5_Flash_%26_Pro-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Google TabFM](https://img.shields.io/badge/Google_TabFM_Foundation_Model-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Google Gemma 4](https://img.shields.io/badge/Google_Gemma_4_12B_QAT_%2F_Gemma_2B-34A853?style=flat-square&logo=google&logoColor=white)
 ![Google Antigravity SDK](https://img.shields.io/badge/Google_Antigravity_Agentic_SDK-00F2FE?style=flat-square&logo=google&logoColor=black)
 ![Firebase Genkit](https://img.shields.io/badge/Firebase_Genkit-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI_%26_LangGraph-000000?style=flat-square&logo=python&logoColor=00F2FE)
+![CrewAI & LangGraph](https://img.shields.io/badge/CrewAI_%26_LangGraph-000000?style=flat-square&logo=python&logoColor=00F2FE)
 ![Ollama / LM Studio](https://img.shields.io/badge/Local_Edge_Ollama_%2F_LM_Studio-34D399?style=flat-square&logo=linux&logoColor=white)
 
-### 🧠 **Base de Graphes, SQL & Observabilité Data**
+### Bases de Données, Graphes & Observabilité
 ![Google BigQuery Studio](https://img.shields.io/badge/Google_BigQuery_Studio_48ms-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
 ![Neo4j GraphRAG](https://img.shields.io/badge/Neo4j_5.26_GraphRAG_%26_Cypher-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![PostgreSQL pgvector](https://img.shields.io/badge/PostgreSQL_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -70,14 +70,14 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 ![SHAP Sentinel](https://img.shields.io/badge/SHAP_Sentinel_Explainable_AI-FF6B6B?style=flat-square&logo=plotly&logoColor=white)
 ![EU AI Act Seal](https://img.shields.io/badge/EU_AI_Act_RSASSA--PSS_Seal-003399?style=flat-square&logo=shield&logoColor=white)
 
-### 🏗️ **Génie Civil & Ingénierie Documentaire**
+### Ingénierie Métier, Sécurité & Calcul Structurel
 ![IfcOpenShell](https://img.shields.io/badge/IfcOpenShell_5D_BIM-E65100?style=flat-square&logo=python&logoColor=white)
 ![Norme BAEL 91](https://img.shields.io/badge/Calcul_Structurel_BAEL_91-757575?style=flat-square&logo=blueprint&logoColor=white)
 ![Python Docx V4](https://img.shields.io/badge/Report_Engine_Python_docx_V4-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OACI Compliance](https://img.shields.io/badge/AVSEC_OACI_Annex_17-003366?style=flat-square&logo=airbus&logoColor=white)
 ![Pydantic V2](https://img.shields.io/badge/Pydantic_V2_Data_Validation-E92063?style=flat-square&logo=python&logoColor=white)
 
-### ⚙️ **CI/CD, Cloud, DevOps & Web Frontend**
+### CI/CD, DevOps & Déploiement
 ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run_Serverless-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_Isolation-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_KS--Test_Drift-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -86,7 +86,7 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 ---
 
-## 📊 Activité & Métriques GitHub
+## Activité & Métriques GitHub
 
 <div align="center">
 
@@ -107,32 +107,25 @@ Mon approche combine la rigueur mathématique de l'ingénieur BTP (ISTDI / IUC),
 
 ---
 
-## 🎙️ Publications, Démos & Deep-Dives Techniques
+## Publications, Démos & Ressources Techniques
 
-> *"L'ingénierie d'avenir en Afrique réside dans notre capacité à maîtriser localement les outils de niveau mondial."*
-
-* 🏆 **Démonstration Hackathon Google Cloud (#AllThingsAgentic) :** [Vidéo Master Démo YouTube (1080p)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw) · [Soumission Devpost](https://devpost.com/magenel85)
-* 📖 **Publication Technique Dev.to :** [« How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B & EU AI Act Attestations »](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
-* 📑 **Livre Blanc 2026 Téléchargeable :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible sur le Portfolio Vercel](https://portfolio-gervais.vercel.app/) / [GitHub Pages](https://gervais-afk.github.io/portfolio-gervais)
-* 🎧 **Podcast IA Deep-Dive (NotebookLM) :** Écoutez nos analyses audio sur le [Lecteur Audio du Portfolio](https://portfolio-gervais.vercel.app/#projects).
-* 🎥 **Chaîne YouTube :** Retrouvez mes tutoriels et analyses d'ingénierie sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw).
-* 🤝 **Me Contacter :** Ouvert aux collaborations techniques et missions de recherche appliquée au **Google Africa Applied AI Lab**. 📧 `magenel85@gmail.com`
-
-<div align="center">
-<br/>
-<sub>⭐ 2026 KOA MARIE GERVAIS NELLY • Conçu avec passion, rigueur et souveraineté depuis Douala / Yaoundé / Ngaoundéré, Cameroun 🇨🇲</sub>
-</div>
+* **Hackathon Mondial Google Cloud (#AllThingsAgentic) :** [Vidéo Démo YouTube (1080p)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw) · [Soumission Devpost](https://devpost.com/magenel85)
+* **Publication Technique Dev.to :** [« How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B & EU AI Act Attestations »](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
+* **Livre Blanc 2026 :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible sur le Portfolio](https://portfolio-gervais.vercel.app/)
+* **Podcast IA Deep-Dive (NotebookLM) :** Analyses audio disponibles sur le [Lecteur Audio du Portfolio](https://portfolio-gervais.vercel.app/#projects)
+* **Chaîne YouTube :** Tutoriels et analyses d'ingénierie sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
+* **Contact Professionnel :** Ouvert aux collaborations techniques et missions d'ingénierie en IA souveraine et Data Architecture. Email : `magenel85@gmail.com`
 
 ---
 
-## 👨‍💻 Creator & Intellectual Property
+## Profil & Propriété Intellectuelle
 
-* **Creator & Lead AI Engineer**: **KOA MARIE GERVAIS NELLY (Gervais Marie)** ([@gervais-afk](https://github.com/gervais-afk) / [Devpost: magenel85](https://devpost.com/magenel85))
-* **Google Affiliation**: **Google Developer Program Member** ([Google Developers Profile](https://me.developers.google.com/u/113140160674270711299)).
-* **Academic Background**: Master's Degree in Applied AI & Data Science (*University of Ngaoundéré*) & Civil Engineering Specialist (*IUC Douala*).
-* **Professional Profiles**: [LinkedIn Profile](https://www.linkedin.com/in/marie-gervais-koa) · [GitHub Portfolio](https://github.com/gervais-afk) · [Devpost Profile](https://devpost.com/magenel85) · [Official Web Portfolio](https://portfolio-gervais.vercel.app/)
-* **Official Candidacy**: Created as an industrial demonstration of AI innovation for the **Google Africa Applied AI Lab** selection review.
+* **Lead AI Engineer & Data Architect** : **KOA MARIE GERVAIS NELLY (Gervais Marie)** ([@gervais-afk](https://github.com/gervais-afk) / [Devpost: magenel85](https://devpost.com/magenel85))
+* **Affiliation Google** : **Google Developer Program Member** ([Google Developers Profile](https://me.developers.google.com/u/113140160674270711299))
+* **Formation Académique** : Master en Intelligence Artificielle Appliquée & Data Science (*Université de Ngaoundéré*) & Licence / BTS Génie Civil (*IUC Douala*)
+* **Distinction Institutionnelle** : **Certificat d'Excellence pour la Performance & l'Intégrité (CCAA, Avril 2023)** décerné par le Directeur Général
+* **Profils Professionnels** : [LinkedIn](https://www.linkedin.com/in/marie-gervais-koa) · [GitHub](https://github.com/gervais-afk) · [Devpost](https://devpost.com/magenel85) · [Portfolio Web Officiel](https://portfolio-gervais.vercel.app/)
 
-### 🛡️ Copyright & Legal Disclaimer
+### Mentions Légales
 > **Copyright (c) 2026 KOA MARIE GERVAIS NELLY (@gervais-afk). All Rights Reserved.**  
-> This platform, its neuro-symbolic multi-agent orchestration design, quantity surveying math engines, and custom architectural interfaces constitute the **exclusive intellectual property** of the author. Commercial reuse, copying, or redistribution without explicit written authorization is strictly prohibited.
+> Les architectures multi-agents, moteurs déterministes et interfaces logicielles présentés dans ces répertoires constituent la propriété intellectuelle exclusive de l'auteur.
