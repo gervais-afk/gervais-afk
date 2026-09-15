@@ -107,14 +107,14 @@ Mon approche articule la rigueur mathématique du Génie Civil (ISTDI / IUC), la
 
 ---
 
-## Publications, Démos & Ressources Techniques
-
-* **Hackathon Mondial Google Cloud (#AllThingsAgentic) :** [Vidéo Démo YouTube (1080p)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw) · [Soumission Devpost](https://devpost.com/magenel85)
-* **Publication Technique Dev.to :** [« How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B & EU AI Act Attestations »](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
-* **Livre Blanc 2026 :** *« Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique »* — [Disponible sur le Portfolio](https://portfolio-gervais.vercel.app/)
-* **Podcast IA Deep-Dive (NotebookLM) :** Analyses audio disponibles sur le [Lecteur Audio du Portfolio](https://portfolio-gervais.vercel.app/#projects)
-* **Chaîne YouTube :** Tutoriels et analyses d'ingénierie sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
-* **Contact Professionnel :** Ouvert aux collaborations techniques et missions d'ingénierie en IA souveraine et Data Architecture. Email : `magenel85@gmail.com`
+Publications, Démos & Ressources Techniques
+Publication GraphRAG & IA Souveraine (Dev.to) : [« Building a Zero-Hallucination Academic GraphRAG: 1,379 Nodes, Multi-Agent Orchestration & Local SLMs »](https://dev.to/gervais_marie/building-a-zero-hallucination-academic-graphrag-1379-nodes-multi-agent-orchestration-local-4mfo)
+Publication MLOps Dev.to : [« How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B & EU AI Act Attestations »](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
+Hackathon Mondial Google Cloud (#AllThingsAgentic) : [Vidéo Démo YouTube (1080p)](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw) · [Soumission Devpost](https://devpost.com/magenel85)
+Livre Blanc 2026 : « Architectures Neuro-Symboliques & IA Souveraine Edge en Afrique » — [Disponible sur le Portfolio](https://portfolio-gervais.vercel.app/)
+Podcast IA Deep-Dive (NotebookLM) : Analyses audio disponibles sur le [Lecteur Audio du Portfolio](https://portfolio-gervais.vercel.app/#projects)
+Chaîne YouTube : Tutoriels et analyses d'ingénierie sur [Le Lab du Machine Learning](https://www.youtube.com/channel/UCghSe-2vRGK4NOM7LLPyOAw)
+Contact Professionnel : Ouvert aux collaborations techniques et missions d'ingénierie en IA souveraine et Data Architecture. Email : magenel85@gmail.com
 
 ---
 
